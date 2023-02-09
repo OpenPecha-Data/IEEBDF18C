@@ -1,0 +1,23 @@
+id: bdd994b0d4544b108c4d53e134330e8d
+annotation_type: index
+revision: '00001'
+annotations:
+  4fc9fc6e8a8a43a2b34ab93c4dd4a9f4:
+    base: 7A0F.txt
+    Chapters:
+    - title: Piṇḍoddāna
+      span:
+        start: 0
+        end: 181
+    - title: Introduction
+      span:
+        start: 182
+        end: 1900
+    - title: 'Chapter I: Niṣadyā'
+      span:
+        start: 1901
+        end: 13326
+    - title: 'Chapter II: Kriyā and Poṣadha'
+      span:
+        start: 13327
+        end: 61925
